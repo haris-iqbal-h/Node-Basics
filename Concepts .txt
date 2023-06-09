@@ -1,1 +1,11 @@
 All Tasks and Node Js Concepts
+
+        Basic Syntax Sttructure
+        folder Sttructure
+        modules 
+            builtin
+            custom external
+        HTTP modules
+        File System
+        Express
+        nodemon
